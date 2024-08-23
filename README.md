@@ -18,7 +18,7 @@ The Random Quote Generator is a simple React application that displays a random 
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/random-quote-generator.git
+   git clone https://github.com/GavinWang-2024/Random-Quote-Generator.git
    cd random-quote-generator
 
 2. **Install dependencies:**
